@@ -1,5 +1,5 @@
 {
-  "name": "private-package-test",
+  "name": "dan-aptitude/private-package-test",
   "description": "Test file .",
   "type": "drupal-module",
   "support": {
