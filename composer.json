@@ -1,0 +1,11 @@
+{
+  "name": "private-package-test",
+  "description": "Test file .",
+  "type": "drupal-module",
+  "support": {
+    "source": "https://github.com/dan-aptitude/private-package-test.git"
+  },
+  "require": {
+    "drupal/core": "^9.3 || ^10"
+  }
+}
